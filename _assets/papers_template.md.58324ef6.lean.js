@@ -1,0 +1,1 @@
+import{e,f as r,s as a}from"./common-b6f5e491.js";const t='{"title":"Paper Template","frontmatter":{},"headers":[{"level":2,"title":"Title","slug":"title"},{"level":2,"title":"References","slug":"references"}],"lastUpdated":1593075146820.898}';var l={};const n=a('',6);l.render=function(a,t){return e(),r("div",null,[n])};export default l;export{t as __pageData};

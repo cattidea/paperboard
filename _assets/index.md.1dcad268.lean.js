@@ -1,0 +1,1 @@
+import{e as a,f as e,s as r}from"./common-b6f5e491.js";const t='{"title":"PaperBoard","frontmatter":{},"headers":[{"level":2,"title":"Paper List","slug":"paper-list"}],"lastUpdated":1593075146820.898}';var p={};const l=r('',3);p.render=function(r,t){return a(),e("div",null,[l])};export default p;export{t as __pageData};
