@@ -1,7 +1,11 @@
 # Paper Template
 
+::: tip
+
 - [PDF](https://example.com)
 - [Repo](https://example.com)
+
+:::
 
 ## Title
 
