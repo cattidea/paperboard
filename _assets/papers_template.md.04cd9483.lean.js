@@ -1,0 +1,1 @@
+import{e,f as r,s as a}from"./common-cba016d1.js";const t='{"title":"Paper Template","frontmatter":{},"headers":[{"level":2,"title":"Title","slug":"title"},{"level":2,"title":"References","slug":"references"}],"lastUpdated":1593764816164.6646}';var l={};const n=a('',6);l.render=function(a,t){return e(),r("div",null,[n])};export default l;export{t as __pageData};
